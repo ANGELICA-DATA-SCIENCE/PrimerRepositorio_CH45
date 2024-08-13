@@ -1,6 +1,6 @@
 # PrimerRepositorio_CH45
 
-##Repositorio de Prueba como Primer Proyecto de la CH45
+## Repositorio de Prueba como Primer Proyecto de la CH45
 
 Tareas:
 1. Crear el repositorio
@@ -11,3 +11,10 @@ Tareas:
 4. Subir los cambios
 ` git push origin main `
 5. Verificar los cambios
+
+---
+
+> En caso de desear descargar cambios utiliza:
+`git pull origin main`
+
+![Imagen](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png)
